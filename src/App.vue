@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <div> <a href="/test"> go test </a> </div>
-    <div> <a href="/hello"> go hello </a> </div>
+    <div> <a href="/#/test"> go test </a> </div>
+    <div> <a href="/#/hello"> go hello </a> </div>
     <router-view></router-view>
   </div>
 </template>
